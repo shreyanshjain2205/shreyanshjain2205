@@ -1,16 +1,24 @@
-### Hi there 👋
+# About Me
 
-<!--
-**shreyanshjain2205/shreyanshjain2205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Shreyansh. I'm currently a senior at University of Illinois Urbana Champaign.
 
-Here are some ideas to get you started:
+## Connect with Me
+- [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/shreyansh-jain-8ba643165/))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+### Languages
+- Python
+- C++
+- Java
+
+### Libraries
+- Numpy
+- Pandas
+- Django
+- Flask
+- React
+
+### Databases
+- MySQL
+- PostgreSQL
